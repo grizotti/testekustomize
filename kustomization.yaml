@@ -8,11 +8,11 @@ metadata:
 commonLabels:
   app: hello
 
-bases:
-- github.com/grizotti/testekustomize02
+
 
 resources:
 - deployment.yaml
 - service.yaml
+- https://github.com/grizotti/testekustomize02
 
 
