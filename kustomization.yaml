@@ -11,6 +11,6 @@ resources:
 - service.yaml
 
 target:
-- "https://github.com/grizotti//testekustomize02.git"
+- git::https://github.com/grizotti//testekustomize02.git
 
 
