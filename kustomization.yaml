@@ -9,6 +9,6 @@ commonLabels:
 resources:
 - deployment.yaml
 - service.yaml
-- git::https://github.com/grizotti/testekustomize02
+- git@github.com:grizotti/testekustomize02.git
 
 
