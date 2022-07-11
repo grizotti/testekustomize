@@ -11,4 +11,4 @@ commonLabels:
 resources:
 - deployment.yaml
 - service.yaml
-- github.com/grizotti/testekustomize02
+- github.com/grizotti/testekustomize02/configMap.yaml
